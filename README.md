@@ -1,5 +1,5 @@
   
-# Demo-Wijk-2025-Rotjeknor 🎡
+# Demo-Wijk-2025- 🎡
 
 [NL] Analyse van CBS StatLine-kerncijfers wijken en buurten (2025) om de huishoudenssamenstelling van de top 10 grootste Rotterdamse wijken in kaart te brengen voor strategisch buurtwerk.
 
